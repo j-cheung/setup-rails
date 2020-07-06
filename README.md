@@ -88,6 +88,7 @@ Then, You should see something similar to this (including the path you’ve adde
 Solution:
 
 1.Install Postgres:
+https://postgresapp.com/downloads.html 
 
 -Download   ➜   Move to Applications folder   ➜   Double Click
 (If you don't move Postgres.app to the Applications folder, you will see a warning about an unidentified developer and won't be able to open it.)
