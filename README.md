@@ -18,7 +18,7 @@ Things you may want to cover:
 
 1.Install rbenv:  
 
-	/bin/bash -c "$(curl -fsSL /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+	brew install rbenv
 
 2.Set up rbenv in you shell : 	
 
